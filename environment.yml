@@ -29,3 +29,4 @@ dependencies:
     - setuptools
     - SimpleITK
     - vtk
+    - aimio-py
